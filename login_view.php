@@ -51,9 +51,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	       <div class="col-4"></div>
        	</div>
 
-       	<!-- /////////////////////////////////// -->
-		<!-- ///////////// FOOTER ////////////// -->
-		<!-- /////////////////////////////////// -->
+       	
+		<!-- FOOTER -->
 		<footer class="row bg-dark align-items-end">
 		<!-- For grids that are the same from the smallest of devices to the largest, use the .col 
 			Specify a numbered class when you need a particularly sized column; otherwise, feel free to stick to .col
@@ -64,13 +63,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		    <div class="col">col</div>
 		</footer>
 
-	<!-- /////////////////////////////////// -->
-	<!-- /////////////////////////////////// -->
     </div><!-- end BS container -->
 
-	<!-- /////////////////////////////////// -->
-	<!-- JS SCRIPTS BOTTOM OF BODY TAG ///// -->
-	<!-- /////////////////////////////////// -->
+	
+	<!-- JS SCRIPTS BOTTOM OF BODY TAG -->
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="<?php echo base_url('assets/js/jquery-3.4.1.min.js'); ?>" type="text/javascript"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
